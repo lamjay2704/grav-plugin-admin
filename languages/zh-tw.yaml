@@ -2,7 +2,6 @@
 PLUGIN_ADMIN:
   ADMIN_BETA_MSG: "這是 Beta 版！如果要用在營運中請自行承擔風險…"
   ADMIN_REPORT_ISSUE: "發現有問題？請回報到 GitHub 上。"
-  EMAIL_FOOTER: "<a href=\"https://getgrav.org\">由 Grav 提供技術驅動</a> - 現代純文字檔案管理系統"
   LOGIN_BTN: "登入"
   LOGIN_BTN_FORGOT: "忘記密碼"
   LOGIN_BTN_RESET: "重設密碼"
@@ -540,8 +539,6 @@ PLUGIN_ADMIN:
   GPM_RELEASES_HELP: "Choose 'Testing' to install beta or testing versions"
   GPM_METHOD: "Remote Fetch Method"
   GPM_METHOD_HELP: "當設置為 Auto，重力將確定 fopen 可用和使用它，否則回退到捲曲。要強制使用一個或其他切換設置。"
-  GPM_VERIFY_PEER: "Remote Verify Peer (SSL)"
-  GPM_VERIFY_PEER_HELP: "一些提供者似乎驗證失敗 getgrav.org SSL 證書，引起 GPM 不運行。如果這是您相符的情況，關閉此設置可能會有幫助"
   AUTO: "自動"
   FOPEN: "fopen"
   CURL: "cURL"
