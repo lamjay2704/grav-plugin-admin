@@ -14,7 +14,7 @@
     "babel-loader": "^8.2.3",
     "buffer": "^6.0.3",
     "chartist": "0.11.4",
-    "codemirror": "^5.65.1",
+    "codemirror": "^5.65.2",
     "debounce": "^1.2.1",
     "dropzone": "^5.9.3",
     "eonasdan-bootstrap-datetimepicker": "^4.17.49",
